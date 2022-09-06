@@ -2,7 +2,7 @@
 
 A small and fun text transformer. It transforms text input in one of `Sarcastic`, `Funny` or `Unable to Structure` syntax.
 
-Things I learned while bulding this:
+Things I learned while building this:
 
 - Array.from() method,
 - Array instance methods like map, forEach, etc,
